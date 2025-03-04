@@ -1,2 +1,2 @@
 # wstudio
-Watson-to-Github Integration
+A Self Project
