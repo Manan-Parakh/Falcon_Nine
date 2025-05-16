@@ -10,3 +10,4 @@ sqlalchemy
 plotly
 dash
 streamlit
+dash_html_components
